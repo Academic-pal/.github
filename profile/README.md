@@ -55,3 +55,6 @@ Stay up-to-date with the latest news and updates by following us on [Twitter](ht
 
 Thank you for visiting the Academic Pal GitHub organization. We look forward to your contributions!
 
+
+Made with ❤️ by the Academic Pal Team
+
