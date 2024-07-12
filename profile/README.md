@@ -30,7 +30,7 @@ We welcome contributions from the community! If you're interested in contributin
 
 ### Community and Support
 
-- Join our community on [Discord](https://discord.gg/academic-pal) for discussions and support.
+- Join our community on [Discord](https://discord.com/invite/b3Z6BuJJ) for discussions and support.
 - For issues or suggestions related to our projects, please open an issue on the respective repository.
 
 ### License
