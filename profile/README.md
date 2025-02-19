@@ -1,4 +1,6 @@
-![Academic Pal Logo](logo_academic_pal-removebg-preview.png)
+<p align="center">
+  <img src="logo_academic_pal-removebg-preview.png" alt="Academic Pal Logo" width="200"/>
+</p>
 
 <h1 align="center">Academic Pal 📚</h1>
 
