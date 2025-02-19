@@ -39,25 +39,18 @@
 
 | Name | GitHub Profile |
 |------|--------------|
-| **Your Name** | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/Academic-pal/people/Hari-hara7) |
-| **Member 2** | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/Academic-pal/people/Araan-Sheikh) |
-| **Member 3** | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/Academic-pal/people/harshithaps11) |
-| **Member 4** | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/Academic-pal/people/devdat2021) |
+| **Hariharanath** | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/Academic-pal/people/Hari-hara7) |
+| **Aaran** | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/Academic-pal/people/Araan-Sheikh) |
+| **Harshitha** | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/Academic-pal/people/harshithaps11) |
+| **Devdat** | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/Academic-pal/people/devdat2021) |
 
-## 🎯 Get Started
+## 💡 Why Academic Pal?
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourrepo/academicpal.git
-   ```
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Start the development server:
-   ```bash
-   npm run dev
-   ```
+🎓 **Academic Pal** is designed to make studying easier and more efficient. With our well-organized resources, students can access everything they need in one place. Whether you're preparing for exams or looking for study materials, Academic Pal has you covered!
+
+---
+
+⭐ **Support Us by Starring This Repository!** 🚀
 
 ## 🌍 Live Demo
 🔗 [Visit Academic Pal](https://academicpal7.onrender.com/)
