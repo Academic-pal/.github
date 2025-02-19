@@ -1,4 +1,4 @@
-![Academic Pal Logo](your_logo_url_here)
+![Academic Pal Logo](profile/logo_academic_pal-removebg-preview.png)
 
 <h1 align="center">Academic Pal 📚</h1>
 
@@ -37,9 +37,10 @@
 
 | Name | GitHub Profile |
 |------|--------------|
-| **Your Name** | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourprofile) |
-| **Member 2** | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/member2) |
-| **Member 3** | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/member3) |
+| **Your Name** | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/Academic-pal/people/Hari-hara7) |
+| **Member 2** | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/Academic-pal/people/Araan-Sheikh) |
+| **Member 3** | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/Academic-pal/people/harshithaps11) |
+| **Member 4** | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/Academic-pal/people/devdat2021) |
 
 ## 🎯 Get Started
 
