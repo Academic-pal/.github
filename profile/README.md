@@ -1,4 +1,4 @@
-![Academic Pal Logo](profile/logo_academic_pal-removebg-preview.png)
+![Academic Pal Logo](logo_academic_pal-removebg-preview.png)
 
 <h1 align="center">Academic Pal 📚</h1>
 
