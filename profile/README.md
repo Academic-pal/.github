@@ -41,6 +41,7 @@
 |------|--------------|
 | **Hariharanath** | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/Academic-pal/people/Hari-hara7) |
 | **Aaran** | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/Academic-pal/people/Araan-Sheikh) |
+| **Teja** | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GunaTeja777) |
 | **Harshitha** | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/Academic-pal/people/harshithaps11) |
 | **Devdat** | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/Academic-pal/people/devdat2021) |
 
