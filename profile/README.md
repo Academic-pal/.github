@@ -9,6 +9,12 @@
     <img src="https://img.shields.io/badge/Powered%20by-Vercel-black?style=flat-square&logo=vercel" alt="Vercel" />
   </a>
 
+<div align="center">
+  <!-- Powered by Hariharanath -->
+  <a href="https://github.com/hariharanath2005">
+    <img src="https://img.shields.io/badge/Powered%20by-Hariharanath-ffcc00?style=flat-square&logo=smashing-magazine&logoColor=black" alt="Powered by Hariharanath" />
+  </a>
+
   <!-- NPM Version -->
   <a href="https://www.npmjs.com/package/your-package-name">
     <img src="https://img.shields.io/npm/v/your-package-name?style=flat-square" alt="NPM Version" />
@@ -24,16 +30,12 @@
     <img src="https://img.shields.io/github/languages/top/hariharanath2005/code-crash?style=flat-square" alt="Top Language" />
   </a>
 
-  <!-- Last Commit -->
-  <a href="https://github.com/hariharanath2005/code-crash/commits/main">
-    <img src="https://img.shields.io/github/last-commit/hariharanath2005/code-crash?style=flat-square" alt="Last Commit" />
-  </a>
-
   <!-- Join the Community -->
   <a href="https://github.com/hariharanath2005/code-crash">
     <img src="https://img.shields.io/badge/Join%20our%20Community-GitHub-blue?style=flat-square&logo=github" alt="Join the Community" />
   </a>
 </div>
+
 
 <p align="center">
   A powerful educational platform for college students providing comprehensive notes, past question papers, important questions, and detailed syllabus.
