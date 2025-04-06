@@ -4,16 +4,37 @@
 
 <h1 align="center">Academic Pal </h1>
 <div align="center">
-  <a href="[https://github.com/hariharanath2005/code-crash/blob/main/LICENSE](https://github.com/Hari-hara7/code-crash.git)">
+  <!-- Vercel Deployment -->
+  <a href="https://vercel.com">
+    <img src="https://img.shields.io/badge/Powered%20by-Vercel-black?style=flat-square&logo=vercel" alt="Vercel" />
+  </a>
+
+  <!-- NPM Version -->
+  <a href="https://www.npmjs.com/package/your-package-name">
+    <img src="https://img.shields.io/npm/v/your-package-name?style=flat-square" alt="NPM Version" />
+  </a>
+
+  <!-- License -->
+  <a href="https://github.com/hariharanath2005/code-crash/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/hariharanath2005/code-crash?style=flat-square" alt="License" />
   </a>
-  <a href="[https://github.com/hariharanath2005/code-crash](https://github.com/Hari-hara7/code-crash.git)">
+
+  <!-- Top Language -->
+  <a href="https://github.com/hariharanath2005/code-crash">
     <img src="https://img.shields.io/github/languages/top/hariharanath2005/code-crash?style=flat-square" alt="Top Language" />
   </a>
-  <a href="[https://github.com/hariharanath2005/code-crash/commits/main](https://github.com/Hari-hara7/code-crash.git)">
+
+  <!-- Last Commit -->
+  <a href="https://github.com/hariharanath2005/code-crash/commits/main">
     <img src="https://img.shields.io/github/last-commit/hariharanath2005/code-crash?style=flat-square" alt="Last Commit" />
   </a>
+
+  <!-- Join the Community -->
+  <a href="https://github.com/hariharanath2005/code-crash">
+    <img src="https://img.shields.io/badge/Join%20our%20Community-GitHub-blue?style=flat-square&logo=github" alt="Join the Community" />
+  </a>
 </div>
+
 <p align="center">
   A powerful educational platform for college students providing comprehensive notes, past question papers, important questions, and detailed syllabus.
 </p>
