@@ -4,10 +4,6 @@
 
 <h1 align="center">Academic Pal </h1>
 <div align="center">
-  <!-- Vercel Deployment -->
-  <a href="https://vercel.com">
-    <img src="https://img.shields.io/badge/Powered%20by-Vercel-black?style=flat-square&logo=vercel" alt="Vercel" />
-  </a>
 
 <div align="center">
   <!-- Powered by Hariharanath -->
@@ -21,8 +17,9 @@
   </a>
 
   <!-- License -->
+  <!-- MIT License -->
   <a href="https://github.com/hariharanath2005/code-crash/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/hariharanath2005/code-crash?style=flat-square" alt="License" />
+    <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="MIT License" />
   </a>
 
   <!-- Top Language -->
