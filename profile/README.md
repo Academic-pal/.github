@@ -2,7 +2,7 @@
   <img src="logo_academic_pal-removebg-preview.png" alt="Academic Pal Logo" width="200"/>
 </p>
 
-<h1 align="center">Academic Pal 📚</h1>
+<h1 align="center">Academic Pal </h1>
 <div align="center">
   <a href="[https://github.com/hariharanath2005/code-crash/blob/main/LICENSE](https://github.com/Hari-hara7/code-crash.git)">
     <img src="https://img.shields.io/github/license/hariharanath2005/code-crash?style=flat-square" alt="License" />
