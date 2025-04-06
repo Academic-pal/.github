@@ -29,9 +29,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
 
   <!-- Top Language -->
-  <a href="https://github.com/hariharanath2005/code-crash">
-    <img src="https://img.shields.io/github/languages/top/hariharanath2005/code-crash?style=flat-square" alt="Top Language" />
-  </a>
+
   <!-- Join the Community -->
   <a href="https://github.com/hariharanath2005/code-crash">
     <img src="https://img.shields.io/badge/Join%20our%20Community-GitHub-blue?style=flat-square&logo=github" alt="Join the Community" />
