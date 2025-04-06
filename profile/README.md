@@ -3,7 +3,17 @@
 </p>
 
 <h1 align="center">Academic Pal 📚</h1>
-
+<div align="center">
+  <a href="[https://github.com/hariharanath2005/code-crash/blob/main/LICENSE](https://github.com/Hari-hara7/code-crash.git)">
+    <img src="https://img.shields.io/github/license/hariharanath2005/code-crash?style=flat-square" alt="License" />
+  </a>
+  <a href="[https://github.com/hariharanath2005/code-crash](https://github.com/Hari-hara7/code-crash.git)">
+    <img src="https://img.shields.io/github/languages/top/hariharanath2005/code-crash?style=flat-square" alt="Top Language" />
+  </a>
+  <a href="[https://github.com/hariharanath2005/code-crash/commits/main](https://github.com/Hari-hara7/code-crash.git)">
+    <img src="https://img.shields.io/github/last-commit/hariharanath2005/code-crash?style=flat-square" alt="Last Commit" />
+  </a>
+</div>
 <p align="center">
   A powerful educational platform for college students providing comprehensive notes, past question papers, important questions, and detailed syllabus.
 </p>
