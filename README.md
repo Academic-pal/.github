@@ -569,22 +569,6 @@ Perfect for technical problems
 
 </div>
 
-### 🏢 Office Locations
-
-**🇮🇳 Headquarters (India)**
-```
-Academic Pal Technologies Pvt. Ltd.
-Bangalore, Karnataka, India
-Timezone: IST (GMT+5:30)
-```
-
-**🇺🇸 US Office**
-```
-Academic Pal Inc.
-San Francisco, CA, USA
-Timezone: PST (GMT-8)
-```
-
 ### ⏰ Support Hours
 
 - **🌍 General Support**: 24/7 (Automated + Live agents)
