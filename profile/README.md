@@ -16,10 +16,7 @@
 
 <div align="center">
 
-[![Organization Repositories](https://img.shields.io/badge/Repositories-10+-blue?style=for-the-badge&logo=github)](https://github.com/orgs/Academic-pal/repositories)
 
-
-[![License](https://img.shields.io/badge/License-MIT-red?style=for-the-badge&logo=opensourceinitiative)](LICENSE)
 
 [![Platform Status](https://img.shields.io/badge/Platform-Live-brightgreen?style=for-the-badge&logo=checkmarx)](https://academicpal7.onrender.com/)
 [![Uptime](https://img.shields.io/badge/Uptime-99.9%25-success?style=for-the-badge&logo=statuspage)](https://academicpal7.onrender.com/)
@@ -30,6 +27,11 @@
 [![Twitter](https://img.shields.io/badge/Twitter-Follow%20Us-1da1f2?style=for-the-badge&logo=twitter)](https://twitter.com/academicpal)
 [![Website](https://img.shields.io/badge/Website-Visit%20Platform-ff6b6b?style=for-the-badge&logo=safari)](https://academicpal7.onrender.com/)
 [![Powered by](https://img.shields.io/badge/Powered%20by-Hariharanath-ffcc00?style=for-the-badge&logo=smashing-magazine)](https://github.com/hariharanath2005)
+
+[![Organization Repositories](https://img.shields.io/badge/Repositories-10+-blue?style=for-the-badge&logo=github)](https://github.com/orgs/Academic-pal/repositories)
+
+
+[![License](https://img.shields.io/badge/License-MIT-red?style=for-the-badge&logo=opensourceinitiative)](LICENSE)
 
 </div>
 
