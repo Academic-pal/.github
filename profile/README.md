@@ -17,8 +17,8 @@
 <div align="center">
 
 [![Organization Repositories](https://img.shields.io/badge/Repositories-10+-blue?style=for-the-badge&logo=github)](https://github.com/orgs/Academic-pal/repositories)
-[![Contributors](https://img.shields.io/badge/Contributors-20+-green?style=for-the-badge&logo=people)](https://github.com/orgs/Academic-pal/people)
-[![Total Stars](https://img.shields.io/badge/Total%20Stars-100+-yellow?style=for-the-badge&logo=star)](https://github.com/Academic-pal)
+
+
 [![License](https://img.shields.io/badge/License-MIT-red?style=for-the-badge&logo=opensourceinitiative)](LICENSE)
 
 [![Platform Status](https://img.shields.io/badge/Platform-Live-brightgreen?style=for-the-badge&logo=checkmarx)](https://academicpal7.onrender.com/)
