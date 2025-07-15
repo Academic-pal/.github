@@ -28,10 +28,7 @@
 [![Website](https://img.shields.io/badge/Website-Visit%20Platform-ff6b6b?style=for-the-badge&logo=safari)](https://academicpal7.onrender.com/)
 [![Powered by](https://img.shields.io/badge/Powered%20by-Hariharanath-ffcc00?style=for-the-badge&logo=smashing-magazine)](https://github.com/hariharanath2005)
 
-[![Organization Repositories](https://img.shields.io/badge/Repositories-10+-blue?style=for-the-badge&logo=github)](https://github.com/orgs/Academic-pal/repositories)
 
-
-[![License](https://img.shields.io/badge/License-MIT-red?style=for-the-badge&logo=opensourceinitiative)](LICENSE)
 
 </div>
 
